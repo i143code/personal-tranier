@@ -43,9 +43,10 @@ if(get_magic_quotes_gpc()) {
 	$message_footer= stripslashes($message_footer);
 }
 
+// change the email address later 
 
 //$address = "HERE your site email address";
-$address = "test@ansonika.com";
+$address = "ranjanahuc@gmail.com";
 
 
 // Below the subject of the email
